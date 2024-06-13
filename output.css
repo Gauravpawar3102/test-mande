@@ -785,6 +785,10 @@ video {
   width: 90%;
 }
 
+.w-\[90vw\] {
+  width: 90vw;
+}
+
 .w-\[98vw\] {
   width: 98vw;
 }
@@ -800,14 +804,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[85\%\] {
-  width: 85%;
-}
-
-.w-\[90vw\] {
-  width: 90vw;
 }
 
 .max-w-\[281px\] {
@@ -1317,16 +1313,6 @@ video {
 
 .shadow-gray-800 {
   --tw-shadow-color: #1f2937;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-gray-600 {
-  --tw-shadow-color: #4b5563;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-gray-200 {
-  --tw-shadow-color: #e5e7eb;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
